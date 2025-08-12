@@ -7,7 +7,7 @@
     "dev": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Lavanya",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
