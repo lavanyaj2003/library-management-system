@@ -34,11 +34,6 @@ CLIENT can do -
 
 ![](https://mraalu.pythonanywhere.com/media/project/LMS.gif)
 
-## Documentation
-
-You can find the Documentation inside /docs/ folder
-![](./docs/LMS.pdf)
-
 ## How to run Project locally :
 
 1. Clone the project
